@@ -8,4 +8,4 @@ $response = [
     'time' => date('Y-m-d H:i:s')
 ];
 
-echo jsonn_encode($response);
+echo json_encode($response);
