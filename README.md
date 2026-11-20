@@ -1,4 +1,4 @@
-# first-activity-ipt102
+
 <?php // hello.php - returns data as JSON, not HTML
 header('Content-Type: application/json');
 
