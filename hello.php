@@ -9,3 +9,5 @@ $response = [
 ];
 
 echo json_encode($response);
+@echo json_encode($response, JSON-PRETTY_PRINT | JSON-UNESCAPED_UNICODE);
+?>
